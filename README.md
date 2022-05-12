@@ -1,4 +1,9 @@
-# Getting Started with Create React App
+# Progressive Web Application Covid19
+
+Projeto para mapear os dados do Covid19 pelo mundo , feito em ReactJs para curso elaborado pela 
+Digital Innovation One.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
